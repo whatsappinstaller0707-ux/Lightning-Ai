@@ -1,0 +1,10 @@
+{
+  "name": "Lightning AI",
+  "description": "A sleek, high-performance AI assistant with a mobile-first 'OS' aesthetic and 'Temp Mode' for ephemeral conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered Chat",
+    "Ephemeral 'Temp' Messaging",
+    "PWA-ready Interface"
+  ]
+}
